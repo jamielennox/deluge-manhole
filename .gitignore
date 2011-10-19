@@ -1,0 +1,5 @@
+Manhole.egg-info
+*.pyc
+*.swp
+build
+dist
